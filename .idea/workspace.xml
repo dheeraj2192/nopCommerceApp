@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9715b823-885f-46e6-be27-fd5113983bed" name="Default Changelist" comment="" />
+    <list default="true" id="9715b823-885f-46e6-be27-fd5113983bed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/testCases/testconnectivity.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/testconnectivity.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageObjects/SearchCustomerPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="588">
               <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
             </state>
           </provider>
@@ -34,16 +36,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testCases/test_searchCustomerByEmail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
+            <state relative-caret-position="168">
               <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-              <folding>
-                <element signature="e#0#6#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testCases/pytest.ini">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="63">
@@ -52,14 +51,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testCases/testconnectivity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testCases/test_searchCustomerByName.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-183">
+            <state relative-caret-position="42">
               <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#6#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -105,6 +110,9 @@
       <dir>D:\DHEERAJ\nopCommerceApp\Logs</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -123,6 +131,7 @@
         <option value="$PROJECT_DIR$/testCases/test_Addcustomer.py" />
         <option value="$PROJECT_DIR$/testCases/test_searchCustomerByEmail.py" />
         <option value="$PROJECT_DIR$/testCases/pytest.ini" />
+        <option value="$PROJECT_DIR$/testCases/testconnectivity.py" />
       </list>
     </option>
   </component>
@@ -132,6 +141,7 @@
     <option name="width" value="970" />
     <option name="height" value="720" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -201,8 +211,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14387918" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20111288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -213,7 +224,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49920508" visible="true" weight="0.43701398" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49920508" visible="true" weight="0.43701398" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007949" side_tool="true" weight="0.32970452" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32970452" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -313,34 +324,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Logs/execution.txt">
+    <entry file="file://$PROJECT_DIR$/pageObjects/SearchCustomerPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51198">
-          <caret line="2438" selection-start-line="2438" selection-end-line="2438" />
+        <state relative-caret-position="588">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pageObjects/SearchCustomerPage.py">
+    <entry file="file://$PROJECT_DIR$/testCases/test_searchCustomerByEmail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+        <state relative-caret-position="168">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testCases/test_searchCustomerByName.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-183">
+        <state relative-caret-position="42">
           <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#6#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testCases/test_login_ddt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -351,13 +352,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testCases/test_searchCustomerByEmail.py">
+    <entry file="file://$PROJECT_DIR$/testCases/test_login_ddt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#6#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="63">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs/execution.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51198">
+          <caret line="2438" selection-start-line="2438" selection-end-line="2438" />
         </state>
       </provider>
     </entry>
@@ -365,6 +370,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCases/testconnectivity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
